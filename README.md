@@ -1,3 +1,4 @@
+
 # celery_practice
 
 
@@ -12,3 +13,7 @@
   <li>pip install --no-cache-dir -r requirements.txt</li>
   <li>celery -A Task worker --loglevel=info</li>
   <li>celery -A test_celery worker --loglevel=info --logfile="/smartedge/docker-mem.txt"</li>
+
+  
+  <h1> OUTPUT </h1>
+  <img width="723" alt="celery1" src="https://user-images.githubusercontent.com/43459908/169967128-348b448a-d106-4568-8245-c2ec4339edde.PNG">
